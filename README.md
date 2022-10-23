@@ -1,4 +1,4 @@
-# Stock Price Prediction with sentiment analysis on Tweets
+# Forecasting Stock Prices with Sentiment Analysis on Twitter Data
 Our research is to predict the future stock price of certain companies using Automated Machine Learning for time series forecasting.
 
 
