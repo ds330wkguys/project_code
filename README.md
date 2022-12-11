@@ -8,3 +8,7 @@ Our research is to predict the future stock price of certain companies using Aut
 ## Methods
 'FLAML_TS_Model.ipynb' will be the model used for the prediction.
 'preprocessing.ipynb' shows how we will preprocess the data from twitter.
+
+
+## Code Contribution
+preprocessing+sentiment_score.ipynb : Chanyong Song
