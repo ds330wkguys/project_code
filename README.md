@@ -3,7 +3,7 @@ Our research is to predict the future stock price of certain companies using Aut
 
 # Code Contribution
 preprocessing+sentiment_score.ipynb : Chanyong Song <br />
-FLAML_final.ipynb : Minchan Kang
+FLAML_final.ipynb : Minchan Kang <br />
 stat_interpolate+Merging.ipynb : Jimin Lee
 
 ## Implementaion of the code from the 1st parent paper.
