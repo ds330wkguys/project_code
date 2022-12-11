@@ -3,10 +3,11 @@ Our research is to predict the future stock price of certain companies using Aut
 
 # Code Contribution
 preprocessing+sentiment_score.ipynb : Chanyong Song
+FLAML_final.ipynb : Minchan Kang
 
 ## Implementaion of the code from the 1st parent paper.
 'sentimental_paper.py' used the dataset 'tweet_data.csv'
 
-## Methods
-'FLAML_TS_Model.ipynb' will be the model used for the prediction.
+## Information
+'FLAML_final.ipynb' is the model used for the prediction.
 'preprocessing.ipynb' shows how we will preprocess the data from twitter.
